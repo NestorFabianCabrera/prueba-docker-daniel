@@ -51,8 +51,11 @@ Demostrar conocimientos en:
 ## Variables de Entorno Necesarias
 
 env
+
 POSTGRES_URI=postgres://user:password@postgres:5432/inventario
+
 MONGODB_URI=mongodb://mongodb:27017/cache
+
 REDIS_URI=redis://redis:6379
 
 ## Estructura del Proyecto
